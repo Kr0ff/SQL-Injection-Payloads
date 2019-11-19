@@ -2,6 +2,7 @@
 A list of payloads for SQL Injection testing
 
 ##SQL Injection Scanner Tools :
+
 -- SQLMap — Automatic SQL Injection And Database Takeover Tool
 -- jSQL Injection — Java Tool For Automatic SQL Database Injection
 -- BBQSQL — A Blind SQL-Injection Exploitation Tool
